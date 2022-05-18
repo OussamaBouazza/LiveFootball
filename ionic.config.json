@@ -1,0 +1,7 @@
+{
+  "name": "LiveFootball",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
